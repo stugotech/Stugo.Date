@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Stugo.Date</id>
+    <version>$version$</version>
+    <authors>Stugo Ltd</authors>
+    <description>Provides some utilities relating to dates</description>
+    <copyright>Copyright © Stugo Ltd 2016</copyright>
+  </metadata>
+  <files>
+    <file src="bin\net40\Stugo.Date.dll" target="lib\net40\" />
+    <file src="bin\net40\Stugo.Date.pdb" target="lib\net40\" />
+  </files>
+</package>
