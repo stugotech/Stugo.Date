@@ -4,7 +4,7 @@ namespace Stugo
 {
     public class DateTimeService
     {
-        public static IDateTimeService Default { get; } = new DefaultDateTimeService();
+        public static IDateTimeService Default { get; set; } = new DefaultDateTimeService();
 
         public static DateTime Now => Default.Now;
         public static DateTime Today => Default.Now.Date;
