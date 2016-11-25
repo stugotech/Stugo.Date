@@ -5,7 +5,7 @@
     <version>$version$</version>
     <title>Stugo.Date.Install</title>
     <authors>Stugo Ltd</authors>
-    <description>Provides some utilities relating to dates/description>
+    <description>Provides some utilities relating to dates</description>
     <copyright>Copyright (c) Stugo Ltd 2016</copyright>
   </metadata>
   <files>
