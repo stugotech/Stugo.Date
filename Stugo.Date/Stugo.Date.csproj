@@ -37,6 +37,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Stugo.Date.nuspec" />
+    <Compile Include="DateTimeExtensions.cs" />
     <Compile Include="DateTimeService.cs" />
     <Compile Include="DefaultDateTimeService.cs" />
     <Compile Include="IDateTimeService.cs" />
